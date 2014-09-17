@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/5859/PedroMDuarte/thesis-hubbard-lda_evap.png)](http://dx.doi.org/10.5281/zenodo.11761)
 
 ## LDA solutions for the Hubbard model in a compenated optical lattice
 
