@@ -132,7 +132,7 @@ def get_doub( T, t, mu, U, select='htse', ignoreLowT=False, verbose=True):
     """ This function packages all three methods for obtaining
     the thermodynamic quantities: htse, nlce, qmc"""
     if select == 'htse':
-        return htse_dens( T, t, mu, U, ignoreLowT=ignoreLowT, verbose=verbose)
+        return htse_doub( T, t, mu, U, ignoreLowT=ignoreLowT, verbose=verbose)
     else:
         raise "doublons not defined" 
 
